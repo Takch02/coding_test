@@ -7,3 +7,6 @@
 
 ### 언어
 처음에 kotlin으로 하다가 javascript로 변경했습니다.
+
+
+해당 글은 [velog](https://velog.io/@takch02/posts) 에서 계속됩니다!
